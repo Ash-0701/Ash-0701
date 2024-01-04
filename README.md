@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshutoshYadav2001
+- 👋 Hi, I’m Ashutosh Yadav
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Analytics
 - 💞️ I’m looking to collaborate on ... Linkedin: https://www.linkedin.com/in/ashutosh-yadav-8b2709209/
