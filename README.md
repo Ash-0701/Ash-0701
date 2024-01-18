@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ashutosh Yadav
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Analytics
-- 💞️ I’m looking to collaborate on ... Linkedin: https://www.linkedin.com/in/ashutosh-yadav-8b2709209/
-- 📫 How to reach me ... email: yadavashutosh704@gmail.com
+- 🌱 I’m currently learning Analytics, ML
+- 💞️ I’m looking to collaborate on Linkedin: https://www.linkedin.com/in/ashutosh-yadav-8b2709209/
+- 📫 How to reach me at email: yadavashutosh704@gmail.com
 
 <!---
 AshutoshYadav2001/AshutoshYadav2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
