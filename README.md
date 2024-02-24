@@ -9,7 +9,10 @@ I'm always eager to connect with fellow tech enthusiasts, mentors, and anyone wh
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ash-0701&label=Profile%20views&color=0e75b6&style=flat" alt="Ash-0701" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Ash-0701&label=Profile%20views&color=0e75b6&style=flat" alt="Ash-0701" />
+  ![Profile views](https://shields.io/endpoint?url=https://raw.githubusercontent.com/Ash-0701/Ash-0701/main/views.json)
+</p>
 
 - 🌱 I’m currently learning **ML & Analytics**
 
