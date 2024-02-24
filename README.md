@@ -21,7 +21,7 @@ I'm always eager to connect with fellow tech enthusiasts, mentors, and anyone wh
 <p align="left">
 <a href="linkedin.com/in/ashutosh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ashutosh001" height="30" width="40" /></a>
 <a href="https://leetcode.com/ash_code0001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ash_code0001/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ash_code0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ash_code0001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ash_code0001" target="blank"><img align="center" src="https://github.com/AdhiJarwal/icons/blob/main/hackerrank.svg" alt="ash_code0001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
