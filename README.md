@@ -9,6 +9,7 @@ I'm always eager to connect with fellow tech enthusiasts, mentors, and anyone wh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ash-0701&label=Profile%20views&color=0e75b6&style=flat" alt="Ash-0701" /> </p>
 
+- 🌱 I’m currently learning **ML & Analytics**
 - 📫 How to reach me yadavashutosh704@gmail.com
 
 <h3 align="left">Connect with me:</h3>
