@@ -2,6 +2,7 @@
 <h1 align="center">Hey! 👋, I'm Ashutosh</h1>
 <h3 align="center">Hey there! 👋 I'm Ashutosh, a Computer Science and Engineering enthusiast currently pursuing B.Tech at the University of Petroleum and Energy Studies, Dehradun. I'm on a journey to explore the exciting world of data and technology.
 
+
 In my academic journey, I've gained a solid foundation in programming languages like Python, SQL, and R, along with a deep understanding of machine learning techniques. I thrive on turning data into actionable insights and creating meaningful visualizations. Whether it's crunching numbers, building models, or crafting compelling data stories, I'm always up for the challenge.
 
 I'm always eager to connect with fellow tech enthusiasts, mentors, and anyone who shares a passion for data and technology. Let's connect and explore the endless possibilities in the world of computer science and data together!</h3>
